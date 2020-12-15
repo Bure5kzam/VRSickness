@@ -8,6 +8,6 @@ manipulate 3D object's Transform and Rotation in 3D Coordinates.
 	<img src = "Res/C31.gif" width = "300"/>
     
 ### P41.cs
-* make object object's rotation degree(P41) equal to a double degree of another object(P42) of same level
+* make object object's rotation degree(P41) equal to double degree of another object(P42) of same level
 
 --- 

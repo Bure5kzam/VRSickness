@@ -32,7 +32,7 @@ Half of Rotation of Camera is offseted by rotation of parent object. It looks li
 
 #### Rotation rate : 2
  <img src = "Res/RigRotation_2.gif" width = "300" />
- It is rotated more fastly
+ It is rotated more fast
 
  
  

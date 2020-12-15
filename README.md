@@ -18,20 +18,20 @@ Rig(White Cube)
 Camera is rotated by Script
 	Camera *= Quaternion.Euler(0,1,0);
 #### Rotation rate : 0
-<img src = "Res/RigRotation_0" width = "300" />
+<img src = "Res/RigRotation_0.gif" width = "300" />
 The camera seems to doesn't rotate. Because rotation of camera's parent object(Rig) offset rotation of camera
 
 
 #### Rotation rate : 1
-<img src = "Res/RigRotation_1" width = "300" />
+<img src = "Res/RigRotation_1.gif" width = "300" />
 The Camera is rotated nomally.
 
 #### Rotation rate : 0.5
-<img src = "Res/RigRotation_05" width = "300" />
+<img src = "Res/RigRotation_05.gif" width = "300" />
 Half of Rotation of Camera is offseted by rotation of parent object. It looks like to spin slowly.
 
 #### Rotation rate : 2
- <img src = "Res/RigRotation_2" width = "300" />
+ <img src = "Res/RigRotation_2.gif" width = "300" />
  It is rotated more fastly
 
  

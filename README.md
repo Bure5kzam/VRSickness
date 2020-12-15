@@ -7,5 +7,6 @@ manipulate 3D object's Transform and Rotation in 3D Coordinates.
 * make child object(C31) rotated arount parent object(P31)  
 	<img src = "Res/C31.gif" width = "300"/>
     
-
+### P41.cs
+* make object object's rotation degree(P41) equal to another object(P42) of same level
 --- 

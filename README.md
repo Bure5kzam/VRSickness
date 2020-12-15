@@ -11,9 +11,7 @@ manipulate 3D object's Transform and Rotation in 3D Coordinates.
 * make object object's rotation degree(P41) equal to double degree of another object(P42) of same level
 
 ### HeadTracking.cs  
-<script type="text/javascript" 
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
-</script>
+
 $$f(x)= if x < x_{min} : (x/x_{min})^a$$  
 $$otherwise : 0$$  
 $$P(w)=U(x/2)(7/5)/Z$$  

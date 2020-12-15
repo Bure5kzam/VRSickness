@@ -12,6 +12,4 @@ manipulate 3D object's Transform and Rotation in 3D Coordinates.
 
 ### HeadTracking.cs  
 
-$$
-y = ax + b
-$$
+$$ y = ax + b $$

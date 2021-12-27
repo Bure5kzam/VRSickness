@@ -3,13 +3,13 @@ VR기기 착용시 나타나는 어지러움 증상을 연구하기위한 시뮬
 KIST의 WRL 연구실에서 학생인턴으로 근무하며 개발했던 것 중 일부를 자료로 남겼습니다.
 
 ### 컨트롤러를 이용한 IP주소 입력 영상  
-[![shader](https://youtu.be/DFq0pHyDQYo/0.jpg)]https://youtu.be/DFq0pHyDQYo  
+https://youtu.be/DFq0pHyDQYo  
 ### VR기기 - PC 소켓 프로그래밍 영상  
-[![shader](https://youtu.be/U0etC92D2-M/0.jpg)]https://youtu.be/U0etC92D2-M  
+https://youtu.be/U0etC92D2-M  
 ### 절두체 영역 배율 확대 영상  
-[![shader](https://youtu.be/cL-hcOBxJQo/0.jpg)]https://youtu.be/cL-hcOBxJQo  
+https://youtu.be/cL-hcOBxJQo  
 ### UI z-index 최상위 쉐이더 적용영상  
-[![shader](https://youtu.be/jbiC355ztPo/0.jpg)]https://youtu.be/jbiC355ztPo  
+https://youtu.be/jbiC355ztPo  
 
 
 # TRS
